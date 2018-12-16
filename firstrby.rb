@@ -4,4 +4,5 @@ def content_check:
 	print "Content is Correct!"
 end
 
-
+def kazima:
+end
